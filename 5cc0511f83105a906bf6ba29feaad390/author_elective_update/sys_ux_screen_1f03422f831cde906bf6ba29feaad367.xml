@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="Fast Fretes - Controller App Config">103a49e358589e9084f98951d1048106</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings/>
+        <macroponent display_value="Default">9f03422f831cde906bf6ba29feaad363</macroponent>
+        <macroponent_config/>
+        <name>Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Veiculos">5b03c6ab831cde906bf6ba29feaad306</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 17:25:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1f03422f831cde906bf6ba29feaad367</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_update_name>sys_ux_screen_1f03422f831cde906bf6ba29feaad367</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 17:25:51</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=1f03422f831cde906bf6ba29feaad367"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ux_screen_1f03422f831cde906bf6ba29feaad367</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="Fast Fretes - Controller App Config">103a49e358589e9084f98951d1048106</app_config><description/><disable_auto_reflow>false</disable_auto_reflow><event_mappings/><macroponent display_value="Default">9f03422f831cde906bf6ba29feaad363</macroponent><macroponent_config/><name>Default</name><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="Veiculos">5b03c6ab831cde906bf6ba29feaad306</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-03 17:25:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1f03422f831cde906bf6ba29feaad367</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Default</sys_name><sys_overrides/><sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package><sys_policy/><sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope><sys_update_name>sys_ux_screen_1f03422f831cde906bf6ba29feaad367</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-03 17:25:51</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=1f03422f831cde906bf6ba29feaad367"/></record_update>]]></payload>
+        <payload_hash>-1235946481</payload_hash>
+        <record_name>Default</record_name>
+        <reverted_from/>
+        <source>18c0511f83105a906bf6ba29feaad395</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 17:25:51</sys_created_on>
+        <sys_id>db03422f831cde906bf6ba29feaad36b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191b8ebdda40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 17:25:51</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>9f03422fee1cde90c1cae72873bc756a</update_guid>
+        <update_guid_history>9f03422fee1cde90c1cae72873bc756a:-1235946481</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 17:40:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>3e562277c10b4af0a31ba3018e6d7100</sys_id>
+        <sys_metadata>1f03422f831cde906bf6ba29feaad367</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_scope_delete display_value="">3c0f13d1b91845868c5a17321e233621</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_1f03422f831cde906bf6ba29feaad367</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_1f03422f831cde906bf6ba29feaad367">db03422f831cde906bf6ba29feaad36b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 17:40:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

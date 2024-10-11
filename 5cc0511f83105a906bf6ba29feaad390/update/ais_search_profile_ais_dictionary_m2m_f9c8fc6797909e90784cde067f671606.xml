@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_synonym_dictionary">b29df374c7531010d1cfd9795cc260cd</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="filiais Search Profile">71c8fc67df909e9088fdedc385887608</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 12:01:23</sys_created_on>
+        <sys_id>f9c8fc6797909e90784cde067f671606</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>default_synonym_dictionary.filiais Search Profile</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_f9c8fc6797909e90784cde067f671606</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 12:01:23</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

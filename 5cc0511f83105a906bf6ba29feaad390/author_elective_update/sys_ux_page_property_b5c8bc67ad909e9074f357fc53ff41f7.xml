@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_notification_uiRoute</name>
+        <page display_value="">35c8fc67bb909e904c29b46beffefd08</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 12:01:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>b5c8bc67ad909e9074f357fc53ff41f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_update_name>sys_ux_page_property_b5c8bc67ad909e9074f357fc53ff41f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 12:01:23</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1229582_fast_f_0.35c8fc67bb909e904c29b46beffefd08.root.chrome_notification_uiRoute</unique_name>
+        <value>cb1af195872023002941b53046cb0b4e</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ux_page_property_b5c8bc67ad909e9074f357fc53ff41f7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_notification_uiRoute</name><page display_value="">35c8fc67bb909e904c29b46beffefd08</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-03 12:01:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>b5c8bc67ad909e9074f357fc53ff41f7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_notification_uiRoute</sys_name><sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package><sys_policy/><sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope><sys_update_name>sys_ux_page_property_b5c8bc67ad909e9074f357fc53ff41f7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-03 12:01:23</sys_updated_on><type>string</type><unique_name>x_1229582_fast_f_0.35c8fc67bb909e904c29b46beffefd08.root.chrome_notification_uiRoute</unique_name><value>cb1af195872023002941b53046cb0b4e</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>1962074557</payload_hash>
+        <record_name>chrome_notification_uiRoute</record_name>
+        <reverted_from/>
+        <source>cdcdd611831012106bf6ba29feaad3f2</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-08-27 19:36:14</sys_created_on>
+        <sys_id>49168da383d49e906bf6ba29feaad347</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1919556b7b00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>09168da3f4d49e90207036bbec7ca547</update_guid>
+        <update_guid_history>09168da3f4d49e90207036bbec7ca547:1962074557</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 12:59:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>03dd485d50fd4be081d5b04a402ba190</sys_id>
+        <sys_metadata>b5c8bc67ad909e9074f357fc53ff41f7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_scope_delete display_value="">3c0f13d1b91845868c5a17321e233621</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_b5c8bc67ad909e9074f357fc53ff41f7</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_b5c8bc67ad909e9074f357fc53ff41f7">49168da383d49e906bf6ba29feaad347</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 12:59:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

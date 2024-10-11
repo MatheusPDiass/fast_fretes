@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1229582_fast_f_0_fretes">x_1229582_fast_f_0_fretes</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>FRE</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-19 13:54:01</sys_created_on>
+        <sys_id>600c2bac83f4d6106bf6ba29feaad38d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FRE</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_update_name>sys_number_600c2bac83f4d6106bf6ba29feaad38d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-19 13:54:01</sys_updated_on>
+    </sys_number>
+</record_update>

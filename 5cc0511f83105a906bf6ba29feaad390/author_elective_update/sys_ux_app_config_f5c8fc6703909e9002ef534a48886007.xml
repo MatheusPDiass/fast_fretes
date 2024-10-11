@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description>App de controle de Filiais</description>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Filiais App Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 12:01:22</sys_created_on>
+        <sys_id>f5c8fc6703909e9002ef534a48886007</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Filiais App Config</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_update_name>sys_ux_app_config_f5c8fc6703909e9002ef534a48886007</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 12:01:22</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ux_app_config_f5c8fc6703909e9002ef534a48886007</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description>App de controle de Filiais</description><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>home</landing_path><name>Filiais App Config</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-03 12:01:22</sys_created_on><sys_id>f5c8fc6703909e9002ef534a48886007</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Filiais App Config</sys_name><sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package><sys_policy/><sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope><sys_update_name>sys_ux_app_config_f5c8fc6703909e9002ef534a48886007</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-03 12:01:22</sys_updated_on></sys_ux_app_config></record_update>]]></payload>
+        <payload_hash>-1004681437</payload_hash>
+        <record_name>Filiais App Config</record_name>
+        <reverted_from/>
+        <source>cdcdd611831012106bf6ba29feaad3f2</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-08-27 19:36:14</sys_created_on>
+        <sys_id>0d168da383d49e906bf6ba29feaad36b</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1919556b7b00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Configuration</type>
+        <update_guid>c9168da3aed49e90ea6bb09805ca396b</update_guid>
+        <update_guid_history>c9168da3aed49e90ea6bb09805ca396b:-1004681437</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 12:59:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>458753f961954f509165959399163100</sys_id>
+        <sys_metadata>f5c8fc6703909e9002ef534a48886007</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Filiais App Config</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_scope_delete display_value="">3c0f13d1b91845868c5a17321e233621</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_f5c8fc6703909e9002ef534a48886007</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_f5c8fc6703909e9002ef534a48886007">0d168da383d49e906bf6ba29feaad36b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 12:59:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

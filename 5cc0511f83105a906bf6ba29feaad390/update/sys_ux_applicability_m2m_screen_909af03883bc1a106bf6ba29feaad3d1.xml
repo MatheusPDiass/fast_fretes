@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audiência para aprovadores">e2a930f483bc1a106bf6ba29feaad3a7</applicability>
+        <order>0</order>
+        <screen display_value="Solicitação de frete Aprovadores">e369b0b483bc1a106bf6ba29feaad3db</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-19 19:37:14</sys_created_on>
+        <sys_id>909af03883bc1a106bf6ba29feaad3d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_909af03883bc1a106bf6ba29feaad3d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-19 19:37:14</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

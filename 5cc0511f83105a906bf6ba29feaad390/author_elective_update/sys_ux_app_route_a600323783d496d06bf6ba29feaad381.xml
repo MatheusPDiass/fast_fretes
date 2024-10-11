@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Fast Fretes - Controller App Config">103a49e358589e9084f98951d1048106</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Form Veículos</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>form-veiculos</route_type>
+        <screen_type display_value="Form Veículos">a600323783d496d06bf6ba29feaad37e</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 15:20:53</sys_created_on>
+        <sys_id>a600323783d496d06bf6ba29feaad381</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Form Veículos</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_update_name>sys_ux_app_route_a600323783d496d06bf6ba29feaad381</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 16:55:42</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=a600323783d496d06bf6ba29feaad381"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ux_app_route_a600323783d496d06bf6ba29feaad381</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Fast Fretes - Controller App Config">103a49e358589e9084f98951d1048106</app_config><description/><extension_point/><fields/><icon/><name>Form Veículos</name><optional_parameters/><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>form-veiculos</route_type><screen_type display_value="Form Veículos">a600323783d496d06bf6ba29feaad37e</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-04 15:20:53</sys_created_on><sys_id>a600323783d496d06bf6ba29feaad381</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Form Veículos</sys_name><sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package><sys_policy/><sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope><sys_update_name>sys_ux_app_route_a600323783d496d06bf6ba29feaad381</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-04 16:55:42</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=a600323783d496d06bf6ba29feaad381"/></record_update>]]></payload>
+        <payload_hash>277402858</payload_hash>
+        <record_name>Form Veículos</record_name>
+        <reverted_from/>
+        <source>18c0511f83105a906bf6ba29feaad395</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 16:55:42</sys_created_on>
+        <sys_id>a7b5477b83dc96d06bf6ba29feaad36b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191bdf6a1150000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 16:55:42</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>6fb5477bbedc96d002da296019201f6a</update_guid>
+        <update_guid_history>6fb5477bbedc96d002da296019201f6a:277402858,8705833b4ddc96d0bd5dcd0f3995bc63:-725838774,a200323725d496d019b3348581d57083:277402858</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-17 12:00:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>664317231d5e413cac748d0be4df7510</sys_id>
+        <sys_metadata>a600323783d496d06bf6ba29feaad381</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Form Veículos</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_scope_delete display_value="">3c0f13d1b91845868c5a17321e233621</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_a600323783d496d06bf6ba29feaad381</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_a600323783d496d06bf6ba29feaad381">a7b5477b83dc96d06bf6ba29feaad36b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-17 12:00:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

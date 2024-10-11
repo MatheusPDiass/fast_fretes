@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_stop_word_dictionary">9865058bc7031010d1cfd9795cc26037</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="fast-fretes---controller Search Profile">583a49e3e6589e909a8777dd454de006</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 13:17:27</sys_created_on>
+        <sys_id>5c3a49e3fb589e90dfc84fec48ec3305</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>default_stop_word_dictionary.fast-fretes---controller Search Profile</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_5c3a49e3fb589e90dfc84fec48ec3305</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 13:17:27</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

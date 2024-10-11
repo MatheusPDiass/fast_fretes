@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="Filiais - Workspace Search">b9c8bc67e1909e90d1a02a83e4b6b8fe</search_context_config>
+        <source display_value="Filiais - x_1229582_fast_f_0_filiais">afc8f0a783909e906bf6ba29feaad37b</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 12:01:27</sys_created_on>
+        <sys_id>a3c8f0a783909e906bf6ba29feaad380</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_a3c8f0a783909e906bf6ba29feaad380</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 12:01:27</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1585b8ef83509e906bf6ba29feaad3c7" label="Motoristas" max_length="40" name="x_1229582_fast_f_0_motoristas" text_index="true" type="collection">
+        <element label="Endereço " mandatory="true" max_length="40" name="endereco" type="string"/>
+        <element choice="1" label="Tipo de Habilitação" mandatory="true" max_length="40" name="tipo_de_habilitacao" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="AB" sequence="2" value="AB"/>
+                <element inactive_on_update="false" label="C" sequence="3" value="C"/>
+                <element inactive_on_update="false" label="D" sequence="4" value="D"/>
+                <element inactive_on_update="false" label="B" sequence="1" value="B"/>
+                <element inactive_on_update="false" label="A" sequence="0" value="A"/>
+                <element inactive_on_update="false" label="E" sequence="5" value="E"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Email" mandatory="true" max_length="40" name="email" type="string"/>
+        <element choice="1" label="Em rota" mandatory="true" max_length="40" name="em_rota" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Em rota" sequence="1" value="Em rota"/>
+                <element inactive_on_update="false" label="Livre" sequence="0" value="Livre"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Em manutenção" sequence="2" value="Em manutenção"/>
+                <element inactive_on_update="false" label="Em circulação" sequence="0" value="Em circulação"/>
+                <element inactive_on_update="false" label="Fora de circulação" sequence="1" value="Fora de circulação"/>
+            </choice>
+        </element>
+        <element label="Filial" mandatory="true" max_length="32" name="filial" reference="x_1229582_fast_f_0_filiais" type="reference"/>
+        <element label="Nome Completo" mandatory="true" max_length="40" name="nome_completo" type="string"/>
+        <index name="index">
+            <element name="filial"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

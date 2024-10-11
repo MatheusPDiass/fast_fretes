@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1229582_fast_f_0.user" name="x_1229582_fast_f_0.user">60c0511f83105a906bf6ba29feaad3ad</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 19:07:38</sys_created_on>
+        <sys_id>64c0511f83105a906bf6ba29feaad3ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>60c0511f83105a906bf6ba29feaad3ad</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_update_name>sys_embedded_help_role_64c0511f83105a906bf6ba29feaad3ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 19:07:38</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

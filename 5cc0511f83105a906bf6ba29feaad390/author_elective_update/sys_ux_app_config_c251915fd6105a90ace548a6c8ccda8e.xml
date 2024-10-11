@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Fast Fretes - Filiais App Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 19:10:12</sys_created_on>
+        <sys_id>c251915fd6105a90ace548a6c8ccda8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fast Fretes - Filiais App Config</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_update_name>sys_ux_app_config_c251915fd6105a90ace548a6c8ccda8e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 19:10:12</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ux_app_config_c251915fd6105a90ace548a6c8ccda8e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description/><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>home</landing_path><name>Fast Fretes - Filiais App Config</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-02 19:10:12</sys_created_on><sys_id>c251915fd6105a90ace548a6c8ccda8e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Fast Fretes - Filiais App Config</sys_name><sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package><sys_policy/><sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope><sys_update_name>sys_ux_app_config_c251915fd6105a90ace548a6c8ccda8e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-02 19:10:12</sys_updated_on></sys_ux_app_config></record_update>]]></payload>
+        <payload_hash>1832552081</payload_hash>
+        <record_name>Fast Fretes - Filiais App Config</record_name>
+        <reverted_from/>
+        <source>cdcdd611831012106bf6ba29feaad3f2</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-08-27 19:36:14</sys_created_on>
+        <sys_id>69f11d9f83105a906bf6ba29feaad377</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1919556b7b00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Configuration</type>
+        <update_guid>29f11d9fe0105a90f18a988f0dd9b277</update_guid>
+        <update_guid_history>29f11d9fe0105a90f18a988f0dd9b277:1832552081</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 19:12:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>022350023e8a4336805c0df1c55d6964</sys_id>
+        <sys_metadata>c251915fd6105a90ace548a6c8ccda8e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fast Fretes - Filiais App Config</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_scope_delete display_value="">3c0f13d1b91845868c5a17321e233621</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_c251915fd6105a90ace548a6c8ccda8e</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_c251915fd6105a90ace548a6c8ccda8e">69f11d9f83105a906bf6ba29feaad377</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 19:12:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

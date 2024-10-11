@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="940c2bac83f4d6106bf6ba29feaad33f" extends="task" label="Fretes" max_length="40" name="x_1229582_fast_f_0_fretes" text_index="true" type="collection"/>
+</database>

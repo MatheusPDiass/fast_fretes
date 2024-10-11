@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Contains references to global search configurations to be consumed by search components</description>
+        <name>global_search_configurations</name>
+        <page display_value="">35c8fc67bb909e904c29b46beffefd08</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 12:01:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>bdc8bc6709909e90cf4b48dceaaed6f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_update_name>sys_ux_page_property_bdc8bc6709909e90cf4b48dceaaed6f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 12:01:23</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1229582_fast_f_0.35c8fc67bb909e904c29b46beffefd08.root.global_search_configurations</unique_name>
+        <value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ux_page_property_bdc8bc6709909e90cf4b48dceaaed6f5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Contains references to global search configurations to be consumed by search components</description><name>global_search_configurations</name><page display_value="">35c8fc67bb909e904c29b46beffefd08</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-03 12:01:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>bdc8bc6709909e90cf4b48dceaaed6f5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>global_search_configurations</sys_name><sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package><sys_policy/><sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope><sys_update_name>sys_ux_page_property_bdc8bc6709909e90cf4b48dceaaed6f5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-03 12:01:23</sys_updated_on><type>json</type><unique_name>x_1229582_fast_f_0.35c8fc67bb909e904c29b46beffefd08.root.global_search_configurations</unique_name><value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>1482538243</payload_hash>
+        <record_name>global_search_configurations</record_name>
+        <reverted_from/>
+        <source>cdcdd611831012106bf6ba29feaad3f2</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-08-27 19:36:14</sys_created_on>
+        <sys_id>cd168da383d49e906bf6ba29feaad351</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1919556b7b00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>8d168da355d49e90cb2e6b3e8a5ef151</update_guid>
+        <update_guid_history>8d168da355d49e90cb2e6b3e8a5ef151:1482538243</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 12:59:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>35222c99e9994b9c818111c4d47e4d04</sys_id>
+        <sys_metadata>bdc8bc6709909e90cf4b48dceaaed6f5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_scope_delete display_value="">3c0f13d1b91845868c5a17321e233621</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_bdc8bc6709909e90cf4b48dceaaed6f5</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_bdc8bc6709909e90cf4b48dceaaed6f5">cd168da383d49e906bf6ba29feaad351</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 12:59:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

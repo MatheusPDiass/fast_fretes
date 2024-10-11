@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>true</click_in_mode>
+        <context_config_id/>
+        <limit>5</limit>
+        <order>200</order>
+        <section_header>Popular searches</section_header>
+        <suggestion_type>Popular Search Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 13:17:28</sys_created_on>
+        <sys_id>d03a49e370589e90720f0628bb7cc803</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Popular Search Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_d03a49e370589e90720f0628bb7cc803</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 13:17:28</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

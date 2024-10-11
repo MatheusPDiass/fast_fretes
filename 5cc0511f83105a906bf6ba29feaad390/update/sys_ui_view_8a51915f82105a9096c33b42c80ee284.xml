@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>workspace-fast-fretes---filiais-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 19:10:14</sys_created_on>
+        <sys_id>8a51915f82105a9096c33b42c80ee284</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace Fast Fretes   Filiais 0</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_update_name>sys_ui_view_8a51915f82105a9096c33b42c80ee284</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 19:10:14</sys_updated_on>
+        <title>Workspace Fast Fretes   Filiais 0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

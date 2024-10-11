@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-19 20:27:09</sys_created_on>
+        <sys_id>efe5c53883b05a106bf6ba29feaad3ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1229582_fretes_solicitacao_de_frete.x_1229582_fast_f_0.Aprovadores</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_security_acl display_value="x_1229582_fretes_solicitacao_de_frete">a0e5093883b05a106bf6ba29feaad311</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_efe5c53883b05a106bf6ba29feaad3ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-19 20:27:09</sys_updated_on>
+        <sys_user_role display_value="x_1229582_fast_f_0.Aprovadores" name="x_1229582_fast_f_0.Aprovadores">70c7b0f083bc1a106bf6ba29feaad3ee</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_security_acl_role_efe5c53883b05a106bf6ba29feaad3ae</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-19 20:27:09</sys_created_on><sys_id>efe5c53883b05a106bf6ba29feaad3ae</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1229582_fretes_solicitacao_de_frete.x_1229582_fast_f_0.Aprovadores</sys_name><sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package><sys_policy/><sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope><sys_security_acl display_value="x_1229582_fretes_solicitacao_de_frete">a0e5093883b05a106bf6ba29feaad311</sys_security_acl><sys_update_name>sys_security_acl_role_efe5c53883b05a106bf6ba29feaad3ae</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-19 20:27:09</sys_updated_on><sys_user_role display_value="x_1229582_fast_f_0.Aprovadores" name="x_1229582_fast_f_0.Aprovadores">70c7b0f083bc1a106bf6ba29feaad3ee</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-2065691712</payload_hash>
+        <record_name>x_1229582_fretes_solicitacao_de_frete.x_1229582_fast_f_0.Aprovadores</record_name>
+        <reverted_from/>
+        <source>18c0511f83105a906bf6ba29feaad395</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-19 20:27:09</sys_created_on>
+        <sys_id>93f58d7883b05a106bf6ba29feaad395</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1920bf79a080000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-19 20:27:09</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>97f58d7877b05a104adc7577902c6c94</update_guid>
+        <update_guid_history>97f58d7877b05a104adc7577902c6c94:-2065691712</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1229582_fretes_solicitacao_de_frete.x_1229582_fast_f_0.Aprovadores">fb5aebc58349d2506bf6ba29feaad3b8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-03 13:19:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>06d8e36b0ec24c20b5becf0f82c82490</sys_id>
+        <sys_metadata>efe5c53883b05a106bf6ba29feaad3ae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1229582_fretes_solicitacao_de_frete.x_1229582_fast_f_0.Aprovadores</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_parent display_value="">a0e5093883b05a106bf6ba29feaad311</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_scope_delete display_value="">3c0f13d1b91845868c5a17321e233621</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_efe5c53883b05a106bf6ba29feaad3ae</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_efe5c53883b05a106bf6ba29feaad3ae">93f58d7883b05a106bf6ba29feaad395</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-03 13:19:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

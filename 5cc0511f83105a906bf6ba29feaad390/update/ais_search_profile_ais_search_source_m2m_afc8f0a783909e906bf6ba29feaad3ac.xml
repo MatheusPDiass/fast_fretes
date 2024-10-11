@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="filiais Search Profile">71c8fc67df909e9088fdedc385887608</profile>
+        <search_source display_value="Filiais">3b51155f83105a906bf6ba29feaad34b</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 12:01:27</sys_created_on>
+        <sys_id>afc8f0a783909e906bf6ba29feaad3ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>filiais Search Profile.Filiais</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_afc8f0a783909e906bf6ba29feaad3ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 12:01:27</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

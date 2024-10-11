@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 13:11:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>50d8052bb2189e901d98a05a89b0d641</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_update_name>m2m_app_config_theme_50d8052bb2189e901d98a05a89b0d641</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 13:11:26</sys_updated_on>
+        <theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme>
+        <ux_app_configuration display_value="">10d8052b94189e90dacf99f309259442</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>m2m_app_config_theme_50d8052bb2189e901d98a05a89b0d641</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability/><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-03 13:11:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>50d8052bb2189e901d98a05a89b0d641</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package><sys_policy/><sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope><sys_update_name>m2m_app_config_theme_50d8052bb2189e901d98a05a89b0d641</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-03 13:11:26</sys_updated_on><theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme><ux_app_configuration display_value="">10d8052b94189e90dacf99f309259442</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>1442894106</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>cdcdd611831012106bf6ba29feaad3f2</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-08-27 19:36:14</sys_created_on>
+        <sys_id>460a05a383589e906bf6ba29feaad3c6</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1919556b7b00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Theme</type>
+        <update_guid>060a05a306589e90f3b0793e0cd7f1c6</update_guid>
+        <update_guid_history>060a05a306589e90f3b0793e0cd7f1c6:1442894106</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">0e0a05a383589e906bf6ba29feaad3c6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 13:16:43</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>4096f14ff33b449296ad18d44a4258c4</sys_id>
+        <sys_metadata>50d8052bb2189e901d98a05a89b0d641</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_scope_delete display_value="">3c0f13d1b91845868c5a17321e233621</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_50d8052bb2189e901d98a05a89b0d641</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_50d8052bb2189e901d98a05a89b0d641">460a05a383589e906bf6ba29feaad3c6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 13:16:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

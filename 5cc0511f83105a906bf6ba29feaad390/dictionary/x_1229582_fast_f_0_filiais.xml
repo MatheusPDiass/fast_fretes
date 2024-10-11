@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7cf0951f83105a906bf6ba29feaad35c" label="Filiais" max_length="40" name="x_1229582_fast_f_0_filiais" text_index="true" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Endereço" mandatory="true" max_length="40" name="endereco" type="string"/>
+        <element label="Telefone" mandatory="true" max_length="40" name="telefone" type="string"/>
+        <element display="true" label="Nome" mandatory="true" max_length="40" name="nome" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

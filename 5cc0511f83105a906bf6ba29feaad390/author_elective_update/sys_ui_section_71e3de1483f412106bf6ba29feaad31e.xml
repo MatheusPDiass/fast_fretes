@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="71e3de1483f412106bf6ba29feaad31e" sys_domain="global" table="x_1229582_fast_f_0_manutencao_de_veiculos" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-18 12:50:36</sys_created_on>
+            <sys_id>bde3de1483f412106bf6ba29feaad322</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_fast_f_0_manutencao_de_veiculos" sys_domain="global" view="Default view">71e3de1483f412106bf6ba29feaad31e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-18 12:50:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>veiculo</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-18 12:52:02</sys_created_on>
+            <sys_id>3e3416d483f412106bf6ba29feaad3cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_fast_f_0_manutencao_de_veiculos" sys_domain="global" view="Default view">71e3de1483f412106bf6ba29feaad31e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-18 12:52:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>problema</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-18 12:53:15</sys_created_on>
+            <sys_id>f4841ad483f412106bf6ba29feaad328</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_fast_f_0_manutencao_de_veiculos" sys_domain="global" view="Default view">71e3de1483f412106bf6ba29feaad31e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-18 12:53:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-18 12:55:27</sys_created_on>
+            <sys_id>f405925883f412106bf6ba29feaad38a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_fast_f_0_manutencao_de_veiculos" sys_domain="global" view="Default view">71e3de1483f412106bf6ba29feaad31e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-18 12:55:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>andamento</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-18 13:44:51</sys_created_on>
+            <sys_id>e450e21883f812106bf6ba29feaad338</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_fast_f_0_manutencao_de_veiculos" sys_domain="global" view="Default view">71e3de1483f412106bf6ba29feaad31e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-18 13:44:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>limite_aprovacao</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-18 13:47:52</sys_created_on>
+            <sys_id>3c012a1c83f812106bf6ba29feaad3d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1229582_fast_f_0_manutencao_de_veiculos" sys_domain="global" view="Default view">71e3de1483f412106bf6ba29feaad31e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-18 13:47:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1229582_fast_f_0_manutencao_de_veiculos</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-18 12:50:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71e3de1483f412106bf6ba29feaad31e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1229582_fast_f_0_manutencao_de_veiculos</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+            <sys_update_name>sys_ui_section_71e3de1483f412106bf6ba29feaad31e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-18 12:50:36</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</application>
+        <file_path/>
+        <instance_id>54a6739fdb86fd14f697684e139619f1</instance_id>
+        <instance_name>dev196913</instance_name>
+        <name>sys_ui_section_71e3de1483f412106bf6ba29feaad31e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="71e3de1483f412106bf6ba29feaad31e" sys_domain="global" table="x_1229582_fast_f_0_manutencao_de_veiculos" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-18 12:50:36</sys_created_on><sys_id>bde3de1483f412106bf6ba29feaad322</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1229582_fast_f_0_manutencao_de_veiculos" sys_domain="global" view="Default view">71e3de1483f412106bf6ba29feaad31e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-18 12:50:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>veiculo</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-18 12:52:02</sys_created_on><sys_id>3e3416d483f412106bf6ba29feaad3cc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1229582_fast_f_0_manutencao_de_veiculos" sys_domain="global" view="Default view">71e3de1483f412106bf6ba29feaad31e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-18 12:52:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>problema</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-18 12:53:15</sys_created_on><sys_id>f4841ad483f412106bf6ba29feaad328</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1229582_fast_f_0_manutencao_de_veiculos" sys_domain="global" view="Default view">71e3de1483f412106bf6ba29feaad31e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-18 12:53:15</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>status</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-18 12:55:27</sys_created_on><sys_id>f405925883f412106bf6ba29feaad38a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1229582_fast_f_0_manutencao_de_veiculos" sys_domain="global" view="Default view">71e3de1483f412106bf6ba29feaad31e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-18 12:55:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>andamento</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-18 13:44:51</sys_created_on><sys_id>e450e21883f812106bf6ba29feaad338</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1229582_fast_f_0_manutencao_de_veiculos" sys_domain="global" view="Default view">71e3de1483f412106bf6ba29feaad31e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-18 13:44:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>limite_aprovacao</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-18 13:47:52</sys_created_on><sys_id>3c012a1c83f812106bf6ba29feaad3d6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1229582_fast_f_0_manutencao_de_veiculos" sys_domain="global" view="Default view">71e3de1483f412106bf6ba29feaad31e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-18 13:47:52</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1229582_fast_f_0_manutencao_de_veiculos</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-18 12:50:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>71e3de1483f412106bf6ba29feaad31e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1229582_fast_f_0_manutencao_de_veiculos</sys_name><sys_overrides/><sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package><sys_policy/><sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope><sys_update_name>sys_ui_section_71e3de1483f412106bf6ba29feaad31e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-18 12:50:36</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-298004674</payload_hash>
+        <record_name>Manutenção de veículos</record_name>
+        <reverted_from/>
+        <source>18c0511f83105a906bf6ba29feaad395</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-18 13:47:52</sys_created_on>
+        <sys_id>f0012a1c83f812106bf6ba29feaad3d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1920563b1100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-18 13:47:52</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>78012a1c85f8121033562f715de8a9d8</update_guid>
+        <update_guid_history>78012a1c85f8121033562f715de8a9d8:-298004674,ac50e2189af81210c73e37185c588c3a:-280978339,b005925850f41210cb61028850e3078c:-103122683,b0841ad48af41210587923d947b4f12a:-1061163291,b63416d4a9f41210800b9c3b6929c0ce:-861972874,b9e3de1473f41210e4b4d41117458b24:-1512661485,bde3de149ef41210772b56c038994e21:-1510544623</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-19 12:06:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>6a245a99eebd46cda1bf7428ffd3d549</sys_id>
+        <sys_metadata>71e3de1483f412106bf6ba29feaad31e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1229582_fast_f_0_manutencao_de_veiculos</sys_name>
+        <sys_package display_value="Fast Fretes" source="x_1229582_fast_f_0">5cc0511f83105a906bf6ba29feaad390</sys_package>
+        <sys_parent display_value="">b8e31e1483f412106bf6ba29feaad3cc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Fast Fretes">5cc0511f83105a906bf6ba29feaad390</sys_scope>
+        <sys_scope_delete display_value="">3c0f13d1b91845868c5a17321e233621</sys_scope_delete>
+        <sys_update_name>sys_ui_section_71e3de1483f412106bf6ba29feaad31e</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_71e3de1483f412106bf6ba29feaad31e">f0012a1c83f812106bf6ba29feaad3d9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-19 12:06:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

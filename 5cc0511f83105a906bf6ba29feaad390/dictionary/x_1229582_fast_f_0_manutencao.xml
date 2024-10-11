@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="15282ba883b4d6106bf6ba29feaad357" extends="task" label="Manutenção" max_length="40" name="x_1229582_fast_f_0_manutencao" text_index="true" type="collection">
+        <element label="Veículo" mandatory="true" max_length="32" name="veiculo" reference="x_1229582_fast_f_0_veiculos" type="reference"/>
+    </element>
+</database>
